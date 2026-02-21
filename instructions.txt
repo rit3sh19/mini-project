@@ -1,0 +1,9 @@
+After you pull this repo run it in a virtual environment
+After that in this project create three folders
+processes, uploads, videos
+inside videos place 1 or more videos of your choice and let it run
+To run
+open the terminal in which ever coding environment you're using
+make a .venv using the commands
+and then type
+    streamlit run app.py
